@@ -1,9 +1,9 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: VSIM
+subtitle: Vancouver School of Irish Music
 image: img/image.jpg
 blurb:
-  heading: Vancouver School of Irish Music
+  heading: Welcome | Fáilte
   text: >-
     Vancouver School of Irish Music is a non-profit organization which aims to
     foster a community of traditional Irish musicians and enthusiasts here in
