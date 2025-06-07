@@ -1,7 +1,7 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "en-ca"
 languageLang = "en"
-title = "Kaldi"
+title = "Vancouver School of Irish Music"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
